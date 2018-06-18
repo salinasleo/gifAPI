@@ -1,0 +1,1 @@
+This project practices API calls by calling for gif images on a particular topic and displays them on the page. The user will be able to suggest a new subject button on the page to get GIFs related to that subject. All the gifs will just be added in front of already existing gifs.

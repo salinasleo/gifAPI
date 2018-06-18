@@ -1,0 +1,32 @@
+#gifContainer {
+    background-image: url("https://thumbs.dreamstime.com/b/artificial-green-grass-texture-green-grass-background-golf-course-soccer-field-sports-background-artificial-green-grass-103068084.jpg");
+    max-width: inherit;
+    width: 100%;
+    max-height: inherit;
+
+}
+
+#headerContainer {
+    background-image: url("http://parkfield.typepad.com/.a/6a01156f4fbbca970c0168eba9558c970c-800wi");
+    max-width: inherit;
+    width: 100%;
+    max-height: inherit;
+
+}
+
+#buttonSection {
+height: 220px;
+}
+
+#getNewButton {
+    width: 340px;
+}
+
+h1,h2,h3 {
+
+    font-family: 'Monoton', serif;
+}
+
+#gifContainer {
+    float: both;
+}
