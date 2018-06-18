@@ -43,7 +43,7 @@ function setTopic() {
 
 function getGIFs() {
 
-    var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + searchkey + "&api_key=" + apiKEY + "&limit=9";
+    var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + searchkey + "&api_key=" + apiKEY + "&limit=10";
 
 
     $.ajax({
